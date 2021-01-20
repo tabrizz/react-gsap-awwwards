@@ -6,7 +6,7 @@
     "@testing-library/jest-dom": "^5.7.0",
     "@testing-library/react": "^10.0.4",
     "@testing-library/user-event": "^10.1.0",
-    "gsap": "^3.2.6",
+    "gsap": "^3.6.0",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
